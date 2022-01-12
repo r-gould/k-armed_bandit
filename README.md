@@ -8,6 +8,3 @@ Implementations of:
 * Gradient bandit
 
 Example: running main.py gives,
-
-![Alt text](/images/reward.png?raw=true "Plot of reward")
-![Alt text](/images/optimal.png?raw=true "Plot of optimal action %")
