@@ -6,3 +6,7 @@ Implementations of:
 * Optimistic initialization
 * UCB (Upper-Confidence-Bound) action selection
 * Gradient bandit
+
+Example: running main.py gives,
+
+![Alt text](/images/reward.png?raw=true "Reward")
