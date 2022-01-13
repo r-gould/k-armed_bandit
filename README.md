@@ -7,7 +7,8 @@ Implementations of:
 * UCB (Upper-Confidence-Bound) action selection
 * Gradient bandit
 
-Example: running main.py gives,
+# Example
+Running main.py gives,
 
 ![image](/images/reward.png)
 ![image](/images/optimal.png)
