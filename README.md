@@ -8,3 +8,6 @@ Implementations of:
 * Gradient bandit
 
 Example: running main.py gives,
+
+![image](/images/reward.png)
+![image](/images/optimal.png)
